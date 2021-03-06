@@ -6,5 +6,8 @@ Client <----HTTP----> Web Server (Apache Tomcat) <--------JSP/Servlet---> App Se
 
 Testing => UI: Selenium Web Driver
            Backend: JUnit, JaCoCo code coverage, Pit mutation tool(ECL Emma)
+                     
+UTA MAC maintenance system has three users (Facility user, Facility Manager, Repairer) with certain functionalities to each of the user.
+
            
 
